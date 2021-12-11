@@ -1,2 +1,2 @@
 # example-deploy-scripts
-Hardhat example deploy scripts.
+Hardhat deploy script examples.
